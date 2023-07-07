@@ -11,14 +11,13 @@ body{background-image:url(background.jpg);
         padding: 20px;
         width: 1000px;
         margin: auto ;
-        position: fixed;
-        left: 17%;
-        top: 9%;}
+        position: relative;
+        top: 150px;}
     
     img{display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 30%;}
+        width: 250px;}
     
         h1{color: #0af031;}
     
@@ -30,7 +29,7 @@ body{background-image:url(background.jpg);
     padding-right: 10px;}
     
     ul{text-align: left;
-        font-size: 150%;
+        font-size: 25px;
         color: antiquewhite;
         padding-left: 50px;} 
     
@@ -52,6 +51,6 @@ body{background-image:url(background.jpg);
           height: 10px;
           background-color:  #f00a0a
           ; border-radius: 10px;}
-    span{font-size: 100%;font-weight: bold;font-family:Arial;}
+    span{font-size: 25px;font-weight: bold;font-family:Arial;}
 
     

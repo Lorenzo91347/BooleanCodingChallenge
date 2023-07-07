@@ -51,6 +51,8 @@ body{background-image:url(background.jpg);
           height: 10px;
           background-color:  #f00a0a
           ; border-radius: 10px;}
-    span{font-size: 25px;font-weight: bold;font-family:Arial;}
+    span{font-size: 25px;
+        font-weight: bold;
+        font-family:Arial;}
 
     

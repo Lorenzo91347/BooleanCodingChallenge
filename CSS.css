@@ -7,7 +7,7 @@ header{
     text-align: center;
 }
     
-.box{
+.container{
     background-color: rgba(0,0,0,.5);
     color: #fff;
     border-radius: 10px;
